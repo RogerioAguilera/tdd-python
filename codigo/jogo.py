@@ -28,5 +28,8 @@ print(aventura)
 estratégia= TipoJogo('Estratégia')
 print(estratégia)
 
+corrida= TipoJogo('Corrida')
+print(corrida)
+
 esporte= TipoJogo('Esporte')
 print(esporte)
